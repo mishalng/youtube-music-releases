@@ -3,8 +3,8 @@
   "name": "YouTube Music 1.0.0",
   "published_at": "2026-11-18",
   "notes": {
-    "de": "- Offizieller Release von YouTube Music Desktop\n- Glassmorphism One UI Interface\n- Flüssige Wave-Seekbar & MPRIS-Unterstützung\n- Integrierter automatischer Updater",
-    "en": "- Official release of YouTube Music Desktop\n- Glassmorphism One UI Interface\n- Smooth Wave-Seekbar & MPRIS support\n- Integrated automatic updater"
+    "de": "Initialer Release von YouTube Music Desktop mit One UI Glassmorphism, WaveSeek und Auto-Updater",
+    "en": "Initialer Release von YouTube Music Desktop mit One UI Glassmorphism, WaveSeek und Auto-Updater"
   },
   "files": {
     "youtube-music.py": {
@@ -13,9 +13,19 @@
       "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.0.0/youtube-music.py"
     },
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "98e1c3483fd252643591bb02326d4e734adb315b0d3016ff46d62ca30ad4e792",
-      "size": 153927,
+      "sha256": "7b9ad308be87b168b93524b0f268969fc939f56fefa5f9e1be8027a310b9a213",
+      "size": 181941,
       "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.0.0/YouTubeMusic-Linux-Installer.zip"
+    },
+    "YouTubeMusic-Setup.exe": {
+      "sha256": "116b8ca45085b9aa0dbb5b4ac3dac4ded6878f681cbf75d0212b69cd2400cdf1",
+      "size": 138490878,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.0.0/YouTubeMusic-Setup.exe"
+    },
+    "YouTubeMusic-Windows-Portable.zip": {
+      "sha256": "281b66a8f1e935bab0557df9057200498577e86d8a6400858e3487ef97abf17c",
+      "size": 209427755,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.0.0/YouTubeMusic-Windows-Portable.zip"
     }
   }
 }
