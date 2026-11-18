@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "name": "YouTube Music 1.0.0",
+  "published_at": "2026-11-18",
+  "notes": {
+    "de": "- Offizieller Release von YouTube Music Desktop\n- Glassmorphism One UI Interface\n- Flüssige Wave-Seekbar & MPRIS-Unterstützung\n- Integrierter automatischer Updater",
+    "en": "- Official release of YouTube Music Desktop\n- Glassmorphism One UI Interface\n- Smooth Wave-Seekbar & MPRIS support\n- Integrated automatic updater"
+  },
+  "files": {
+    "youtube-music.py": {
+      "sha256": "ca7f4289169830ee41e7c9a143047823d06d334ee27990fde97fcbb7037f822f",
+      "size": 567319,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.0.0/youtube-music.py"
+    },
+    "YouTubeMusic-Linux-Installer.zip": {
+      "sha256": "98e1c3483fd252643591bb02326d4e734adb315b0d3016ff46d62ca30ad4e792",
+      "size": 153927,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.0.0/YouTubeMusic-Linux-Installer.zip"
+    }
+  }
+}
