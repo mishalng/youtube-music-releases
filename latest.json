@@ -1,31 +1,31 @@
 {
-  "version": "1.0.0",
-  "name": "YouTube Music 1.0.0",
-  "published_at": "2026-11-18",
+  "version": "1.1.0",
+  "name": "YouTube Music 1.1.0",
+  "published_at": "2026-11-20",
   "notes": {
-    "de": "Initialer Release von YouTube Music Desktop mit One UI Glassmorphism, WaveSeek und Auto-Updater",
-    "en": "Initialer Release von YouTube Music Desktop mit One UI Glassmorphism, WaveSeek und Auto-Updater"
+    "de": "Release v1.1.0: Neuer Audio-Vollbild Stil Version C (Aurora Flow mit fließendem Farbverlauf), dynamisch skalierende One UI 9 Settings-UI mit einheitlichen Rundungen und Stabilitäts-Fix für den Live-Stream Player.",
+    "en": "Release v1.1.0: New audio fullscreen style Version C (Aurora Flow with animated color gradient), dynamic responsive One UI 9 Settings UI with unified rounded corners, and live stream stability fixes."
   },
   "files": {
     "youtube-music.py": {
-      "sha256": "ca7f4289169830ee41e7c9a143047823d06d334ee27990fde97fcbb7037f822f",
-      "size": 567319,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.0.0/youtube-music.py"
+      "sha256": "23e2db40797ba7a89d2992cd57680d5eb6e71cb39182b8f4298543dd2d230d1b",
+      "size": 589879,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.1.0/youtube-music.py"
     },
     "YouTubeMusic-Linux-Installer.zip": {
       "sha256": "7b9ad308be87b168b93524b0f268969fc939f56fefa5f9e1be8027a310b9a213",
       "size": 181941,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.0.0/YouTubeMusic-Linux-Installer.zip"
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.1.0/YouTubeMusic-Linux-Installer.zip"
     },
     "YouTubeMusic-Setup.exe": {
       "sha256": "116b8ca45085b9aa0dbb5b4ac3dac4ded6878f681cbf75d0212b69cd2400cdf1",
       "size": 138490878,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.0.0/YouTubeMusic-Setup.exe"
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.1.0/YouTubeMusic-Setup.exe"
     },
     "YouTubeMusic-Windows-Portable.zip": {
       "sha256": "281b66a8f1e935bab0557df9057200498577e86d8a6400858e3487ef97abf17c",
       "size": 209427755,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.0.0/YouTubeMusic-Windows-Portable.zip"
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.1.0/YouTubeMusic-Windows-Portable.zip"
     }
   }
 }
