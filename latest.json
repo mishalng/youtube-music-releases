@@ -1,21 +1,21 @@
 {
-  "version": "1.5.1",
-  "name": "YouTube Music 1.5.1",
+  "version": "1.5.2",
+  "name": "YouTube Music 1.5.2",
   "published_at": "2026-11-22",
   "notes": {
-    "de": "Version 1.5.1:\n- Vollbild-Darstellung Audio-Modus (Version D 'Dynamic Aura'): Leuchtender Multi-Layer Radialschein (Core Glow, Offset-Halo, Ambient Vignette), der direkt ab Cover-Kante hervortritt und einen brillanten zweifarbigen Farbverlauf erzeugt\n- Mathematisch präzise Farbraum-Normalisierung in Oklab / OKLCH mit sRGB-Gamut-Mapping: Verhindert Farbton-Verschiebungen und garantiert gleichmäßige wahrgenommene Helligkeit bei allen Farbtönen (inkl. gedämpften Covern wie Pijus - No one Else)\n- Eleganter Twilight-Modus für Schwarzweiß- und Minimal-Cover\n- Robuste A/V-Modus-Umschaltung für UGC- und Videotracks ohne natives Toggle-Element über Video-ID-gebundenen Override\n- Strikter Guard gegen unabsichtliches Aufklappen der Player-Page im Fenstermodus",
-    "en": "Version 1.5.1:\n- Vollbild-Darstellung Audio-Modus (Version D 'Dynamic Aura'): Leuchtender Multi-Layer Radialschein (Core Glow, Offset-Halo, Ambient Vignette), der direkt ab Cover-Kante hervortritt und einen brillanten zweifarbigen Farbverlauf erzeugt\n- Mathematisch präzise Farbraum-Normalisierung in Oklab / OKLCH mit sRGB-Gamut-Mapping: Verhindert Farbton-Verschiebungen und garantiert gleichmäßige wahrgenommene Helligkeit bei allen Farbtönen (inkl. gedämpften Covern wie Pijus - No one Else)\n- Eleganter Twilight-Modus für Schwarzweiß- und Minimal-Cover\n- Robuste A/V-Modus-Umschaltung für UGC- und Videotracks ohne natives Toggle-Element über Video-ID-gebundenen Override\n- Strikter Guard gegen unabsichtliches Aufklappen der Player-Page im Fenstermodus"
+    "de": "Härtung der Update-Pipeline: Atomare Veröffentlichung ohne Draft-Kollision, Symlink-Auflösung, PID-basiertes Single-Instance-Handover und sauberes Schließen aller Fenster beim Neustart.",
+    "en": "Härtung der Update-Pipeline: Atomare Veröffentlichung ohne Draft-Kollision, Symlink-Auflösung, PID-basiertes Single-Instance-Handover und sauberes Schließen aller Fenster beim Neustart."
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "ca932aa33e4f5f2932e0d44c4a62636828d9492724b620a99f125fc6cf2d8f97",
-      "size": 219867,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.1/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "1c0554eed6f5c688c21c8e6e3cf09b2b820a1d1fd770f097750c548ba8ff8402",
+      "size": 220400,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.2/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "3635fec2c859f99669db8d9befea7e00fd80a4420d82595890a173879973eddd",
-      "size": 694613,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.1/youtube-music.py"
+      "sha256": "7ae4ede17162cb78372220dc9f2e67cf4a6712e4dd38dd1e0d6b0657a559b389",
+      "size": 696674,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.2/youtube-music.py"
     }
   }
 }
