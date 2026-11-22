@@ -1,21 +1,21 @@
 {
-  "version": "1.5.2",
-  "name": "YouTube Music 1.5.2",
+  "version": "1.5.3",
+  "name": "YouTube Music 1.5.3",
   "published_at": "2026-11-22",
   "notes": {
-    "de": "Härtung der Update-Pipeline: Atomare Veröffentlichung ohne Draft-Kollision, Symlink-Auflösung, PID-basiertes Single-Instance-Handover und sauberes Schließen aller Fenster beim Neustart.",
-    "en": "Härtung der Update-Pipeline: Atomare Veröffentlichung ohne Draft-Kollision, Symlink-Auflösung, PID-basiertes Single-Instance-Handover und sauberes Schließen aller Fenster beim Neustart."
+    "de": "SoundScope (Version E) adaptiert nun dynamisch die Titelfarbe aus Fortschrittsbalken-Option B (--ytm-prog-c) mit weicher Farbüberblendung",
+    "en": "SoundScope (Version E) adaptiert nun dynamisch die Titelfarbe aus Fortschrittsbalken-Option B (--ytm-prog-c) mit weicher Farbüberblendung"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "1c0554eed6f5c688c21c8e6e3cf09b2b820a1d1fd770f097750c548ba8ff8402",
-      "size": 220400,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.2/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "11729416fe64d4e73e8b1976a5d9949b33f986164dfda90000aa390624e950b9",
+      "size": 221261,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.3/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "7ae4ede17162cb78372220dc9f2e67cf4a6712e4dd38dd1e0d6b0657a559b389",
-      "size": 696674,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.2/youtube-music.py"
+      "sha256": "d630146051664fc535c63d8bcacab985fccb19daf163878b05a258388a3c5d65",
+      "size": 697909,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.3/youtube-music.py"
     }
   }
 }
