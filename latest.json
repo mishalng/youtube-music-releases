@@ -1,21 +1,21 @@
 {
-  "version": "1.5.0",
-  "name": "YouTube Music 1.5.0",
+  "version": "1.5.1",
+  "name": "YouTube Music 1.5.1",
   "published_at": "2026-11-22",
   "notes": {
-    "de": "Neuer Audio-Vollbild-Stil Version E (Retro-SoundScope-Visualizer) mit 5 Sub-Modi und 3 Farbpaletten",
-    "en": "Neuer Audio-Vollbild-Stil Version E (Retro-SoundScope-Visualizer) mit 5 Sub-Modi und 3 Farbpaletten"
+    "de": "Version 1.5.1:\n- Vollbild-Darstellung Audio-Modus (Version D 'Dynamic Aura'): Leuchtender Multi-Layer Radialschein (Core Glow, Offset-Halo, Ambient Vignette), der direkt ab Cover-Kante hervortritt und einen brillanten zweifarbigen Farbverlauf erzeugt\n- Mathematisch präzise Farbraum-Normalisierung in Oklab / OKLCH mit sRGB-Gamut-Mapping: Verhindert Farbton-Verschiebungen und garantiert gleichmäßige wahrgenommene Helligkeit bei allen Farbtönen (inkl. gedämpften Covern wie Pijus - No one Else)\n- Eleganter Twilight-Modus für Schwarzweiß- und Minimal-Cover\n- Robuste A/V-Modus-Umschaltung für UGC- und Videotracks ohne natives Toggle-Element über Video-ID-gebundenen Override\n- Strikter Guard gegen unabsichtliches Aufklappen der Player-Page im Fenstermodus",
+    "en": "Version 1.5.1:\n- Vollbild-Darstellung Audio-Modus (Version D 'Dynamic Aura'): Leuchtender Multi-Layer Radialschein (Core Glow, Offset-Halo, Ambient Vignette), der direkt ab Cover-Kante hervortritt und einen brillanten zweifarbigen Farbverlauf erzeugt\n- Mathematisch präzise Farbraum-Normalisierung in Oklab / OKLCH mit sRGB-Gamut-Mapping: Verhindert Farbton-Verschiebungen und garantiert gleichmäßige wahrgenommene Helligkeit bei allen Farbtönen (inkl. gedämpften Covern wie Pijus - No one Else)\n- Eleganter Twilight-Modus für Schwarzweiß- und Minimal-Cover\n- Robuste A/V-Modus-Umschaltung für UGC- und Videotracks ohne natives Toggle-Element über Video-ID-gebundenen Override\n- Strikter Guard gegen unabsichtliches Aufklappen der Player-Page im Fenstermodus"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "2657336c9e5294c6daedecd4cfa28ecea70ee34f405f1d8189a09459ae0a1055",
-      "size": 218056,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.0/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "ca932aa33e4f5f2932e0d44c4a62636828d9492724b620a99f125fc6cf2d8f97",
+      "size": 219867,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.1/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "fe8ae134f5cab287da0c2f4679ca8b4a6072d9d031cefd754e88de0d0201f42c",
-      "size": 688988,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.0/youtube-music.py"
+      "sha256": "3635fec2c859f99669db8d9befea7e00fd80a4420d82595890a173879973eddd",
+      "size": 694613,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.1/youtube-music.py"
     }
   }
 }
