@@ -1,21 +1,21 @@
 {
-  "version": "1.4.3",
-  "name": "YouTube Music 1.4.3",
+  "version": "1.4.4",
+  "name": "YouTube Music 1.4.4",
   "published_at": "2026-11-22",
   "notes": {
-    "de": "Behebung von Vollbild-Übergangs- und Esc-Handling-Fehlern, HiDPI-Optimierung des Hintergrundbilds und Behebung doppelter Abdunkelung im maximierten Zustand",
-    "en": "Behebung von Vollbild-Übergangs- und Esc-Handling-Fehlern, HiDPI-Optimierung des Hintergrundbilds und Behebung doppelter Abdunkelung im maximierten Zustand"
+    "de": "Release v1.4.4: Organisch fließender Abschluss des Fluid-Wave-Fortschrittsbalkens am Knopf, 30px Taper-Maske, bündige Ring-Zentrierung und nativer Painter-Taper",
+    "en": "Release v1.4.4: Organisch fließender Abschluss des Fluid-Wave-Fortschrittsbalkens am Knopf, 30px Taper-Maske, bündige Ring-Zentrierung und nativer Painter-Taper"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "649ee0ab1eea66f88acd230e35af1a42847081df25496c99625f44b2a9aed248",
-      "size": 202220,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.3/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "e2f5ae47ab8e5eaacf76743e1a1f4ba5fa8be23951ab1083c7db621b7cce96fb",
+      "size": 202643,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.4/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "be758e86bfe795479b181507cbc7e0add5df161d7edf1b0497ec2869924a704f",
-      "size": 654978,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.3/youtube-music.py"
+      "sha256": "31a42d897e4f54fd2033189fcd871fdc65d9b7562701bf6574166768e15bc640",
+      "size": 656641,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.4/youtube-music.py"
     }
   }
 }
