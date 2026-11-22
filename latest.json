@@ -1,21 +1,21 @@
 {
-  "version": "1.4.2",
-  "name": "YouTube Music 1.4.2",
+  "version": "1.4.3",
+  "name": "YouTube Music 1.4.3",
   "published_at": "2026-11-22",
   "notes": {
-    "de": "Release v1.4.2: Gehärteter Auto-Updater mit Pfad-Pinning, 6.4x schnellere JPEG-Dekodierung, echter LRU-Cache und absturzsicherer Thread-Shutdown",
-    "en": "Release v1.4.2: Gehärteter Auto-Updater mit Pfad-Pinning, 6.4x schnellere JPEG-Dekodierung, echter LRU-Cache und absturzsicherer Thread-Shutdown"
+    "de": "Behebung von Vollbild-Übergangs- und Esc-Handling-Fehlern, HiDPI-Optimierung des Hintergrundbilds und Behebung doppelter Abdunkelung im maximierten Zustand",
+    "en": "Behebung von Vollbild-Übergangs- und Esc-Handling-Fehlern, HiDPI-Optimierung des Hintergrundbilds und Behebung doppelter Abdunkelung im maximierten Zustand"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "e071c5ed7865c40676fb30afd522d6bb4dc29233d4368415a6dddf28a58b58f4",
-      "size": 201017,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.2/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "649ee0ab1eea66f88acd230e35af1a42847081df25496c99625f44b2a9aed248",
+      "size": 202220,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.3/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "d6a34e8674232f7856356bc8939fdfb0b70d6ddf4961939741ed249369cf4a30",
-      "size": 649844,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.2/youtube-music.py"
+      "sha256": "be758e86bfe795479b181507cbc7e0add5df161d7edf1b0497ec2869924a704f",
+      "size": 654978,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.3/youtube-music.py"
     }
   }
 }
