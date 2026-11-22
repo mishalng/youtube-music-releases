@@ -1,31 +1,21 @@
 {
-  "version": "1.4.0",
-  "name": "YouTube Music 1.4.0",
+  "version": "1.4.1",
+  "name": "YouTube Music 1.4.1",
   "published_at": "2026-11-22",
   "notes": {
-    "de": "Option B: Mehrschichtiger flüssiger Fortschrittsbalken (Fluid Wave) mit dynamischer Albumcover-Farbanpassung in den Einstellungen",
-    "en": "Option B: Mehrschichtiger flüssiger Fortschrittsbalken (Fluid Wave) mit dynamischer Albumcover-Farbanpassung in den Einstellungen"
+    "de": "Release v1.4.1: Gehärtete Auto-Update & Release-Pipeline, Content-Length Vorprüfung, atomare Verifikation und Option B Fluid Wave Fortschrittsbalken",
+    "en": "Release v1.4.1: Gehärtete Auto-Update & Release-Pipeline, Content-Length Vorprüfung, atomare Verifikation und Option B Fluid Wave Fortschrittsbalken"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "a5d5c51fce4ed3335f61a1805e8a037a14496534e18568bb12ed560156af591f",
-      "size": 200499,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.0/YouTubeMusic-Linux-Installer.zip"
-    },
-    "YouTubeMusic-Setup.exe": {
-      "sha256": "116b8ca45085b9aa0dbb5b4ac3dac4ded6878f681cbf75d0212b69cd2400cdf1",
-      "size": 138490878,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.0/YouTubeMusic-Setup.exe"
-    },
-    "YouTubeMusic-Windows-Portable.zip": {
-      "sha256": "281b66a8f1e935bab0557df9057200498577e86d8a6400858e3487ef97abf17c",
-      "size": 209427755,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.0/YouTubeMusic-Windows-Portable.zip"
+      "sha256": "6f69bd3ee786d530a5ea6a628f14fbb3bff40c73c56f1c63085dad55a149912e",
+      "size": 200626,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.1/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "c093625c59e7647ecd9d6e0a91bde9224296d113b6ecd20636667ca6ab4885ba",
-      "size": 648145,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.0/youtube-music.py"
+      "sha256": "1349b7b614e82fa0dbf4f130f91ac0f553de4cf6c09a6c611b0a111791a67d81",
+      "size": 648754,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.1/youtube-music.py"
     }
   }
 }
