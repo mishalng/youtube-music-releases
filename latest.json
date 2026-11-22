@@ -1,21 +1,21 @@
 {
-  "version": "1.4.1",
-  "name": "YouTube Music 1.4.1",
+  "version": "1.4.2",
+  "name": "YouTube Music 1.4.2",
   "published_at": "2026-11-22",
   "notes": {
-    "de": "Release v1.4.1: Gehärtete Auto-Update & Release-Pipeline, Content-Length Vorprüfung, atomare Verifikation und Option B Fluid Wave Fortschrittsbalken",
-    "en": "Release v1.4.1: Gehärtete Auto-Update & Release-Pipeline, Content-Length Vorprüfung, atomare Verifikation und Option B Fluid Wave Fortschrittsbalken"
+    "de": "Release v1.4.2: Gehärteter Auto-Updater mit Pfad-Pinning, 6.4x schnellere JPEG-Dekodierung, echter LRU-Cache und absturzsicherer Thread-Shutdown",
+    "en": "Release v1.4.2: Gehärteter Auto-Updater mit Pfad-Pinning, 6.4x schnellere JPEG-Dekodierung, echter LRU-Cache und absturzsicherer Thread-Shutdown"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "6f69bd3ee786d530a5ea6a628f14fbb3bff40c73c56f1c63085dad55a149912e",
-      "size": 200626,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.1/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "e071c5ed7865c40676fb30afd522d6bb4dc29233d4368415a6dddf28a58b58f4",
+      "size": 201017,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.2/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "1349b7b614e82fa0dbf4f130f91ac0f553de4cf6c09a6c611b0a111791a67d81",
-      "size": 648754,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.1/youtube-music.py"
+      "sha256": "d6a34e8674232f7856356bc8939fdfb0b70d6ddf4961939741ed249369cf4a30",
+      "size": 649844,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.2/youtube-music.py"
     }
   }
 }
