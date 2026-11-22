@@ -1,21 +1,21 @@
 {
-  "version": "1.6.1",
-  "name": "YouTube Music 1.6.1",
+  "version": "1.7.0",
+  "name": "YouTube Music 1.7.0",
   "published_at": "2026-11-22",
   "notes": {
-    "de": "Adaptive Tempo- & AGC-Dynamik für Low-BPM (Pink Floyd) und Melodic Breakcore (Tokyona)",
-    "en": "Adaptive Tempo- & AGC-Dynamik für Low-BPM (Pink Floyd) und Melodic Breakcore (Tokyona)"
+    "de": "SoundScope v1.2: 5 neue Modi (10–14: Kaleidoskop, 360° Radial-EQ, Doppelhelix, Beat-Funken, 3D-Wireframe) & globale Zero-Allocation BPM- und Ruhephasen-Engine",
+    "en": "SoundScope v1.2: 5 neue Modi (10–14: Kaleidoskop, 360° Radial-EQ, Doppelhelix, Beat-Funken, 3D-Wireframe) & globale Zero-Allocation BPM- und Ruhephasen-Engine"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "ad20baa9eb903fa27e14b98734f52b31b9e79993e505bf0d46b2ee6c79555149",
-      "size": 229970,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.6.1/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "23fc7b6daf2a98947aa8bc6da820cc27099712ebf87731f3a9d25801af92a6f9",
+      "size": 239909,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.7.0/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "d18af11aaf3e47a09893195663b95b337946f8ca906eb8eaf5fed73e4e0fbaa7",
-      "size": 718934,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.6.1/youtube-music.py"
+      "sha256": "85bff42726edf93f451b5207336b511a1c5067b3a86b75bc59e165d21bffc19b",
+      "size": 742790,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.7.0/youtube-music.py"
     }
   }
 }
