@@ -1,21 +1,21 @@
 {
-  "version": "1.5.5",
-  "name": "YouTube Music 1.5.5",
+  "version": "1.6.0",
+  "name": "YouTube Music 1.6.0",
   "published_at": "2026-11-22",
   "notes": {
-    "de": "Behebung des Fehlers, dass das benutzerdefinierte Hintergrundbild nach dem Beenden der Vollbilddarstellung mit dem Retro-SoundScope-Visualizer (Version E) verschwand (transparenter Canvas-Kontext, unmounting via display:none & sauberes clearRect beim Beenden)",
-    "en": "Behebung des Fehlers, dass das benutzerdefinierte Hintergrundbild nach dem Beenden der Vollbilddarstellung mit dem Retro-SoundScope-Visualizer (Version E) verschwand (transparenter Canvas-Kontext, unmounting via display:none & sauberes clearRect beim Beenden)"
+    "de": "Erweiterung Version E auf v1.1: 4 neue SoundScope-Modi (Polar-Stern, Vertikaler Lichtstrahl, Gespiegelte Glow-Welle, 3D-Lissajous-Bänder)",
+    "en": "Erweiterung Version E auf v1.1: 4 neue SoundScope-Modi (Polar-Stern, Vertikaler Lichtstrahl, Gespiegelte Glow-Welle, 3D-Lissajous-Bänder)"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "43ba7d9812ae3918289fea9be5d062593b96b2f97299f52a2914554e34682f3c",
-      "size": 221470,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.5/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "e8bf9f0e59b26399927282f831fb4b594e3951a9548f42ccbb7d775a361eb093",
+      "size": 227373,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.6.0/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "425015c5f212141d7e4e8a83e64cdb86856fad3a40312d9e3ae30112ddbda99d",
-      "size": 698509,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.5/youtube-music.py"
+      "sha256": "c67e7a942c56f82dd2de9d06ae67be26d2bea6b83c0951def9e8914b1f7a46f3",
+      "size": 713435,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.6.0/youtube-music.py"
     }
   }
 }
