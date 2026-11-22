@@ -1,21 +1,21 @@
 {
-  "version": "1.6.0",
-  "name": "YouTube Music 1.6.0",
+  "version": "1.6.1",
+  "name": "YouTube Music 1.6.1",
   "published_at": "2026-11-22",
   "notes": {
-    "de": "Erweiterung Version E auf v1.1: 4 neue SoundScope-Modi (Polar-Stern, Vertikaler Lichtstrahl, Gespiegelte Glow-Welle, 3D-Lissajous-Bänder)",
-    "en": "Erweiterung Version E auf v1.1: 4 neue SoundScope-Modi (Polar-Stern, Vertikaler Lichtstrahl, Gespiegelte Glow-Welle, 3D-Lissajous-Bänder)"
+    "de": "Adaptive Tempo- & AGC-Dynamik für Low-BPM (Pink Floyd) und Melodic Breakcore (Tokyona)",
+    "en": "Adaptive Tempo- & AGC-Dynamik für Low-BPM (Pink Floyd) und Melodic Breakcore (Tokyona)"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "e8bf9f0e59b26399927282f831fb4b594e3951a9548f42ccbb7d775a361eb093",
-      "size": 227373,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.6.0/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "ad20baa9eb903fa27e14b98734f52b31b9e79993e505bf0d46b2ee6c79555149",
+      "size": 229970,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.6.1/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "c67e7a942c56f82dd2de9d06ae67be26d2bea6b83c0951def9e8914b1f7a46f3",
-      "size": 713435,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.6.0/youtube-music.py"
+      "sha256": "d18af11aaf3e47a09893195663b95b337946f8ca906eb8eaf5fed73e4e0fbaa7",
+      "size": 718934,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.6.1/youtube-music.py"
     }
   }
 }
