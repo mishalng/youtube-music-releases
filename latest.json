@@ -1,21 +1,21 @@
 {
-  "version": "1.4.4",
-  "name": "YouTube Music 1.4.4",
+  "version": "1.5.0",
+  "name": "YouTube Music 1.5.0",
   "published_at": "2026-11-22",
   "notes": {
-    "de": "Release v1.4.4: Organisch fließender Abschluss des Fluid-Wave-Fortschrittsbalkens am Knopf, 30px Taper-Maske, bündige Ring-Zentrierung und nativer Painter-Taper",
-    "en": "Release v1.4.4: Organisch fließender Abschluss des Fluid-Wave-Fortschrittsbalkens am Knopf, 30px Taper-Maske, bündige Ring-Zentrierung und nativer Painter-Taper"
+    "de": "Neuer Audio-Vollbild-Stil Version E (Retro-SoundScope-Visualizer) mit 5 Sub-Modi und 3 Farbpaletten",
+    "en": "Neuer Audio-Vollbild-Stil Version E (Retro-SoundScope-Visualizer) mit 5 Sub-Modi und 3 Farbpaletten"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "e2f5ae47ab8e5eaacf76743e1a1f4ba5fa8be23951ab1083c7db621b7cce96fb",
-      "size": 202643,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.4/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "2657336c9e5294c6daedecd4cfa28ecea70ee34f405f1d8189a09459ae0a1055",
+      "size": 218056,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.0/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "31a42d897e4f54fd2033189fcd871fdc65d9b7562701bf6574166768e15bc640",
-      "size": 656641,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.4.4/youtube-music.py"
+      "sha256": "fe8ae134f5cab287da0c2f4679ca8b4a6072d9d031cefd754e88de0d0201f42c",
+      "size": 688988,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.0/youtube-music.py"
     }
   }
 }
