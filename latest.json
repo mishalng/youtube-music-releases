@@ -1,21 +1,21 @@
 {
-  "version": "1.5.4",
-  "name": "YouTube Music 1.5.4",
+  "version": "1.5.5",
+  "name": "YouTube Music 1.5.5",
   "published_at": "2026-11-22",
   "notes": {
-    "de": "Bugfix: Dynamische Cover-Farbe im Fortschrittsbalken Option B wiederhergestellt & JS-Sync Syntaxfehler behoben",
-    "en": "Bugfix: Dynamische Cover-Farbe im Fortschrittsbalken Option B wiederhergestellt & JS-Sync Syntaxfehler behoben"
+    "de": "Behebung des Fehlers, dass das benutzerdefinierte Hintergrundbild nach dem Beenden der Vollbilddarstellung mit dem Retro-SoundScope-Visualizer (Version E) verschwand (transparenter Canvas-Kontext, unmounting via display:none & sauberes clearRect beim Beenden)",
+    "en": "Behebung des Fehlers, dass das benutzerdefinierte Hintergrundbild nach dem Beenden der Vollbilddarstellung mit dem Retro-SoundScope-Visualizer (Version E) verschwand (transparenter Canvas-Kontext, unmounting via display:none & sauberes clearRect beim Beenden)"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "235fdd55f870d06655b4fc95c7f0afcac3d195cb0364af9af80f3a9f248a1320",
-      "size": 221303,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.4/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "43ba7d9812ae3918289fea9be5d062593b96b2f97299f52a2914554e34682f3c",
+      "size": 221470,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.5/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "2b9cb3bff4df7d5b0e0d2c538fcfbce30dce4bd3269fe1a138fb1788cb64dcb4",
-      "size": 698058,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.4/youtube-music.py"
+      "sha256": "425015c5f212141d7e4e8a83e64cdb86856fad3a40312d9e3ae30112ddbda99d",
+      "size": 698509,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.5.5/youtube-music.py"
     }
   }
 }
