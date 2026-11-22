@@ -1,21 +1,21 @@
 {
-  "version": "1.7.0",
-  "name": "YouTube Music 1.7.0",
+  "version": "1.7.1",
+  "name": "YouTube Music 1.7.1",
   "published_at": "2026-11-22",
   "notes": {
-    "de": "SoundScope v1.2: 5 neue Modi (10–14: Kaleidoskop, 360° Radial-EQ, Doppelhelix, Beat-Funken, 3D-Wireframe) & globale Zero-Allocation BPM- und Ruhephasen-Engine",
-    "en": "SoundScope v1.2: 5 neue Modi (10–14: Kaleidoskop, 360° Radial-EQ, Doppelhelix, Beat-Funken, 3D-Wireframe) & globale Zero-Allocation BPM- und Ruhephasen-Engine"
+    "de": "Bugfix: Vollständige Behebung des Wallpaper-Verlusts nach SoundScope-Vollbild (GPU-Compositor Tear-Down, CSS-Scoping & Transparenz-Resync)",
+    "en": "Bugfix: Vollständige Behebung des Wallpaper-Verlusts nach SoundScope-Vollbild (GPU-Compositor Tear-Down, CSS-Scoping & Transparenz-Resync)"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "23fc7b6daf2a98947aa8bc6da820cc27099712ebf87731f3a9d25801af92a6f9",
-      "size": 239909,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.7.0/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "1393789b92a280431434f3f10d7ed301ba461eed4fd2bf30af85865cced2d0ed",
+      "size": 240706,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.7.1/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "85bff42726edf93f451b5207336b511a1c5067b3a86b75bc59e165d21bffc19b",
-      "size": 742790,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.7.0/youtube-music.py"
+      "sha256": "d0298a7876fa6fabffcb700f9ea1da50816cbaaab70d60d4aca0484e5d0a0647",
+      "size": 746319,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.7.1/youtube-music.py"
     }
   }
 }
