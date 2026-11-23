@@ -1,21 +1,21 @@
 {
-  "version": "1.12.0",
-  "name": "YouTube Music 1.12.0",
+  "version": "1.12.1",
+  "name": "YouTube Music 1.12.1",
   "published_at": "2026-11-23",
   "notes": {
-    "de": "SoundScope v1.5: PS1-Motion-Blur-Preset & 5 additive Sub-Modi (26–30)",
-    "en": "SoundScope v1.5: PS1-Motion-Blur-Preset & 5 additive Sub-Modi (26–30)"
+    "de": "SoundScope v1.5.1: Bugfix Modi 21/22/30 & Equalizer/Stereo-Audit",
+    "en": "SoundScope v1.5.1: Bugfix Modi 21/22/30 & Equalizer/Stereo-Audit"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "8d571c21385743ec5dd5a5bb0335a4170c6b5813a2b4b7aa7245fc6fec513e40",
-      "size": 276474,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.12.0/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "03b286e797674123ab6f510a9f006ee912eed974dc7f6259f80e0764e4c15819",
+      "size": 277925,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.12.1/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "a43aa63a98a89c8ae36903ec467ef0a2d1e786363dca56152328ea52c0c6c4b0",
-      "size": 830273,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.12.0/youtube-music.py"
+      "sha256": "e6b902e5e54263e8bea4f04a4cf07b2c1dae2f74c0149635b7707f51c3461f50",
+      "size": 833181,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.12.1/youtube-music.py"
     }
   }
 }
