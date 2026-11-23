@@ -1,21 +1,21 @@
 {
-  "version": "1.11.0",
-  "name": "YouTube Music 1.11.0",
+  "version": "1.12.0",
+  "name": "YouTube Music 1.12.0",
   "published_at": "2026-11-23",
   "notes": {
-    "de": "SoundScope v1.4: 5 additive Sub-Modi (21–25) & 25-Modi Shuffle-Bag",
-    "en": "SoundScope v1.4: 5 additive Sub-Modi (21–25) & 25-Modi Shuffle-Bag"
+    "de": "SoundScope v1.5: PS1-Motion-Blur-Preset & 5 additive Sub-Modi (26–30)",
+    "en": "SoundScope v1.5: PS1-Motion-Blur-Preset & 5 additive Sub-Modi (26–30)"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "b92e4187cd851c311d8308113a2edcb4d2c4e9fcaf90694436b04500c12a6260",
-      "size": 265613,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.11.0/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "8d571c21385743ec5dd5a5bb0335a4170c6b5813a2b4b7aa7245fc6fec513e40",
+      "size": 276474,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.12.0/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "f525dcedfc63f1ed55b367fa30e5bb54ae0fe2c24f41d8e9177435a9f9a60657",
-      "size": 801749,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.11.0/youtube-music.py"
+      "sha256": "a43aa63a98a89c8ae36903ec467ef0a2d1e786363dca56152328ea52c0c6c4b0",
+      "size": 830273,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.12.0/youtube-music.py"
     }
   }
 }
