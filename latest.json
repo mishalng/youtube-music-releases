@@ -1,21 +1,21 @@
 {
-  "version": "1.8.2",
-  "name": "YouTube Music 1.8.2",
+  "version": "1.9.0",
+  "name": "YouTube Music 1.9.0",
   "published_at": "2026-11-23",
   "notes": {
-    "de": "Crash-Fix: Behebung des SIGTRAP / Signal 5 Absturzes beim Start durch Verwendung valider Alpha-Werte in der Chromium WebEngine Background-Color-Synchronisation.",
-    "en": "Crash-Fix: Behebung des SIGTRAP / Signal 5 Absturzes beim Start durch Verwendung valider Alpha-Werte in der Chromium WebEngine Background-Color-Synchronisation."
+    "de": "SoundScope v1.3: Live-Debug-Overlay (HUD), Settings-Integration & Hotkey-Umschaltung",
+    "en": "SoundScope v1.3: Live-Debug-Overlay (HUD), Settings-Integration & Hotkey-Umschaltung"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "1e5261e3b810758a5e10dbc79a4371b13d1af7ae49c9f681405517db77ddb484",
-      "size": 244596,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.8.2/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "de6b705a7324a7a4f734b391a56c1efdf3d48de946b3e9ddf6bb7dbec1aaee87",
+      "size": 247676,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.9.0/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "b3ef126d6225c49a504c403e48cba2796e7c58bb76d5e55a03bb29959fa6d7f5",
-      "size": 754197,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.8.2/youtube-music.py"
+      "sha256": "4a0a27fb3b513c55c050f8fbc523b2d3453f9302438269684f90816dbc34f423",
+      "size": 760881,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.9.0/youtube-music.py"
     }
   }
 }
