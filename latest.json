@@ -1,21 +1,21 @@
 {
-  "version": "1.10.0",
-  "name": "YouTube Music 1.10.0",
+  "version": "1.11.0",
+  "name": "YouTube Music 1.11.0",
   "published_at": "2026-11-23",
   "notes": {
-    "de": "SoundScope v1.3: Audio-Pegel / AGC-Bugfix, Selbstheilender Track-Wechsel & 6 additive Modi (15–20)",
-    "en": "SoundScope v1.3: Audio-Pegel / AGC-Bugfix, Selbstheilender Track-Wechsel & 6 additive Modi (15–20)"
+    "de": "SoundScope v1.4: 5 additive Sub-Modi (21–25) & 25-Modi Shuffle-Bag",
+    "en": "SoundScope v1.4: 5 additive Sub-Modi (21–25) & 25-Modi Shuffle-Bag"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "e9bc30f31ede2629a380b1d6ad5c613f146ca41a39509ffdbd683b8cc2cf4fed",
-      "size": 256656,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.10.0/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "b92e4187cd851c311d8308113a2edcb4d2c4e9fcaf90694436b04500c12a6260",
+      "size": 265613,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.11.0/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "8d154d9e2ba31a50dcaf1828a8c48c69635c37168488d34c671adfb4c949d57a",
-      "size": 781266,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.10.0/youtube-music.py"
+      "sha256": "f525dcedfc63f1ed55b367fa30e5bb54ae0fe2c24f41d8e9177435a9f9a60657",
+      "size": 801749,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.11.0/youtube-music.py"
     }
   }
 }
