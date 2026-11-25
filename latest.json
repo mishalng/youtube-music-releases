@@ -1,21 +1,21 @@
 {
-  "version": "1.12.1",
-  "name": "YouTube Music 1.12.1",
-  "published_at": "2026-11-23",
+  "version": "1.13.0",
+  "name": "YouTube Music 1.13.0",
+  "published_at": "2026-11-25",
   "notes": {
-    "de": "SoundScope v1.5.1: Bugfix Modi 21/22/30 & Equalizer/Stereo-Audit",
-    "en": "SoundScope v1.5.1: Bugfix Modi 21/22/30 & Equalizer/Stereo-Audit"
+    "de": "SoundScope v1.6: Fundament, Performance-Härtung & Modularisierung (Paket 1)",
+    "en": "SoundScope v1.6: Fundament, Performance-Härtung & Modularisierung (Paket 1)"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "03b286e797674123ab6f510a9f006ee912eed974dc7f6259f80e0764e4c15819",
-      "size": 277925,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.12.1/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "89a92bd1215e042c9a5a673aa386b57a67fac3378f69f656e689a161ca76d096",
+      "size": 284243,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.13.0/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "e6b902e5e54263e8bea4f04a4cf07b2c1dae2f74c0149635b7707f51c3461f50",
-      "size": 833181,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.12.1/youtube-music.py"
+      "sha256": "ae95757ac0c8aa6df836b0ffb4e28fecb8934f7af86a9fcac7c41f2bc9944d34",
+      "size": 680006,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.13.0/youtube-music.py"
     }
   }
 }
