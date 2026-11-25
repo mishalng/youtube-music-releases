@@ -1,21 +1,21 @@
 {
-  "version": "1.14.0",
-  "name": "YouTube Music 1.14.0",
+  "version": "1.15.0",
+  "name": "YouTube Music 1.15.0",
   "published_at": "2026-11-25",
   "notes": {
-    "de": "SoundScope v1.7: Visueller Feinschliff (Crossfade, HSL-Color-Lerp, Cover-Farb-Schutz & F11-Idle)",
-    "en": "SoundScope v1.7: Visueller Feinschliff (Crossfade, HSL-Color-Lerp, Cover-Farb-Schutz & F11-Idle)"
+    "de": "SoundScope v1.8: UX & Settings-Ausbau (Shuffle-Kategorien/Blacklist, 2s-Mini-Toast & AGC-Empfindlichkeit)",
+    "en": "SoundScope v1.8: UX & Settings-Ausbau (Shuffle-Kategorien/Blacklist, 2s-Mini-Toast & AGC-Empfindlichkeit)"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "132826fd09203d131529ecafb346f27407a339b0867d16c4d6aee75f23e27216",
-      "size": 294613,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.14.0/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "e9a32296376e11d1bf6967deec98ba3afbb9a5b469e067c0a568e30c3686e27e",
+      "size": 304508,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.0/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "0e808b8490c051c19d3d12d69a6c53721363260eb27c21cfdb782d408808d8b9",
-      "size": 681188,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.14.0/youtube-music.py"
+      "sha256": "3eee55487c865d75a8242055e1952ce6f4005017366a73cea8e323f04aeae14b",
+      "size": 696875,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.0/youtube-music.py"
     }
   }
 }
