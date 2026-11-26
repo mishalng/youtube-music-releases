@@ -1,21 +1,31 @@
 {
-  "version": "1.15.1",
-  "name": "YouTube Music 1.15.1",
-  "published_at": "2026-11-25",
+  "version": "1.15.2",
+  "name": "YouTube Music 1.15.2",
+  "published_at": "2026-11-26",
   "notes": {
-    "de": "Hotfix v1.15.1: SoundScope-Bundle direkt in youtube-music.py eingebettet (Standalone- & Auto-Updater-Fix)",
-    "en": "Hotfix v1.15.1: SoundScope-Bundle direkt in youtube-music.py eingebettet (Standalone- & Auto-Updater-Fix)"
+    "de": "Sicherheits-, CVE- & Windows-11-Härtung (v1.15.2): Updater-Plattform-Fallback behoben, Windows-11-Setup & Portable-Build aktualisiert, URL-/IPC-/yt-dlp-/Pillow-Härtung, PyQt6 6.12.1 / WebEngine 6.140.1 / Pillow 13.0.0",
+    "en": "Sicherheits-, CVE- & Windows-11-Härtung (v1.15.2): Updater-Plattform-Fallback behoben, Windows-11-Setup & Portable-Build aktualisiert, URL-/IPC-/yt-dlp-/Pillow-Härtung, PyQt6 6.12.1 / WebEngine 6.140.1 / Pillow 13.0.0"
   },
   "files": {
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "b6cd20e125d409c44b9151b9de95446fed20fd13b8b974f8bd1e5a7f1913562c",
-      "size": 345827,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.1/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "08dacd47b0400ceec46f3b92d2cd0a5bfcf5c2d9943ace934c6dcecac8836796",
+      "size": 346662,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.2/YouTubeMusic-Linux-Installer.zip"
+    },
+    "YouTubeMusic-Setup.exe": {
+      "sha256": "ca7f84c24aeae7d7b11b81f8833aa8a7d5c1fe0fd969c289cfb240f7965f05ac",
+      "size": 145449238,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.2/YouTubeMusic-Setup.exe"
+    },
+    "YouTubeMusic-Windows-Portable.zip": {
+      "sha256": "a085d28900141164921940ad80c89d60cdc749ba9a8aa68d3fd1af8ab2d84b04",
+      "size": 219224097,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.2/YouTubeMusic-Windows-Portable.zip"
     },
     "youtube-music.py": {
-      "sha256": "c6b03995e096a6df39931e3be6ec164892fba1e86f6af93f276abeb47d6d7fab",
-      "size": 889563,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.1/youtube-music.py"
+      "sha256": "4ac3992e608923392b1fb7c7c2172fa9a6c7db3d2306d86eed23687cf806935f",
+      "size": 892760,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.2/youtube-music.py"
     }
   }
 }
