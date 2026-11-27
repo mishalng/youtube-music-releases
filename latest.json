@@ -1,31 +1,36 @@
 {
-  "version": "1.15.2",
-  "name": "YouTube Music 1.15.2",
-  "published_at": "2026-11-26",
+  "version": "1.15.3",
+  "name": "YouTube Music 1.15.3",
+  "published_at": "2026-11-27",
   "notes": {
-    "de": "Sicherheits-, CVE- & Windows-11-Härtung (v1.15.2): Updater-Plattform-Fallback behoben, Windows-11-Setup & Portable-Build aktualisiert, URL-/IPC-/yt-dlp-/Pillow-Härtung, PyQt6 6.12.1 / WebEngine 6.140.1 / Pillow 13.0.0",
-    "en": "Sicherheits-, CVE- & Windows-11-Härtung (v1.15.2): Updater-Plattform-Fallback behoben, Windows-11-Setup & Portable-Build aktualisiert, URL-/IPC-/yt-dlp-/Pillow-Härtung, PyQt6 6.12.1 / WebEngine 6.140.1 / Pillow 13.0.0"
+    "de": "CachyOS/Arch Linux & Desktop-Integration (v1.15.3): Behobene Quoting-/Exec-Bugs in install.sh & PKGBUILD, dbus-send statt qdbus in MPRIS Desktop-Actions, fcntl.flock Single-Instance-Guard, praezises pactl-Sink-Matching, fehlertolerantes NVIDIA/VAAPI-Probing sowie YouTubeMusic-CachyOS-Installer.zip im Release-Feed.",
+    "en": "CachyOS/Arch Linux & Desktop-Integration (v1.15.3): Behobene Quoting-/Exec-Bugs in install.sh & PKGBUILD, dbus-send statt qdbus in MPRIS Desktop-Actions, fcntl.flock Single-Instance-Guard, praezises pactl-Sink-Matching, fehlertolerantes NVIDIA/VAAPI-Probing sowie YouTubeMusic-CachyOS-Installer.zip im Release-Feed."
   },
   "files": {
+    "YouTubeMusic-CachyOS-Installer.zip": {
+      "sha256": "b40d08736298b9c84cb187b1f637754ef988de17585a1d38dd90439bf5bc63fd",
+      "size": 349274,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.3/YouTubeMusic-CachyOS-Installer.zip"
+    },
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "08dacd47b0400ceec46f3b92d2cd0a5bfcf5c2d9943ace934c6dcecac8836796",
-      "size": 346662,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.2/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "2200f9e8d5c2acd608cd328e7405ae44140d2dcaff9b04709c5cbc2e2690fd77",
+      "size": 347512,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.3/YouTubeMusic-Linux-Installer.zip"
     },
     "YouTubeMusic-Setup.exe": {
-      "sha256": "ca7f84c24aeae7d7b11b81f8833aa8a7d5c1fe0fd969c289cfb240f7965f05ac",
-      "size": 145449238,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.2/YouTubeMusic-Setup.exe"
+      "sha256": "13a43c659611db62f78b5d3a64e17ad6aeca532ebd5b17dddfc4fd1443e34d2e",
+      "size": 145451163,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.3/YouTubeMusic-Setup.exe"
     },
     "YouTubeMusic-Windows-Portable.zip": {
-      "sha256": "a085d28900141164921940ad80c89d60cdc749ba9a8aa68d3fd1af8ab2d84b04",
-      "size": 219224097,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.2/YouTubeMusic-Windows-Portable.zip"
+      "sha256": "7da82d6072a932057831c968e1e9d232aefb659e1b269d2e43cbf65ae7f57b5f",
+      "size": 219225908,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.3/YouTubeMusic-Windows-Portable.zip"
     },
     "youtube-music.py": {
-      "sha256": "4ac3992e608923392b1fb7c7c2172fa9a6c7db3d2306d86eed23687cf806935f",
-      "size": 892760,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.2/youtube-music.py"
+      "sha256": "2cbd045a35208462f71f1c3772d39124f590b0ff018e40636d787e31304c4960",
+      "size": 895208,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.3/youtube-music.py"
     }
   }
 }
