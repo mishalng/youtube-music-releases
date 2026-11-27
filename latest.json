@@ -1,26 +1,26 @@
 {
-  "version": "1.15.4",
-  "name": "YouTube Music 1.15.4",
+  "version": "1.15.5",
+  "name": "YouTube Music 1.15.5",
   "published_at": "2026-11-27",
   "notes": {
-    "de": "Fix: Behebung des 40-Sekunden-Wiedergabestopps bei Free-Accounts durch Integration von JSON-Pruning (uBlock Origin Standard) und Entschärfung des In-Player Ad-Skippers.",
-    "en": "Fix: Behebung des 40-Sekunden-Wiedergabestopps bei Free-Accounts durch Integration von JSON-Pruning (uBlock Origin Standard) und Entschärfung des In-Player Ad-Skippers."
+    "de": "Fix: Behebung des 40-Sekunden-Wiedergabestopps bei Free-Accounts durch konsistente Chrome-Identität & Client-Hints auf music.youtube.com (Firefox-Stealth nur für Google-Login) sowie Entfernung des erkennbaren JSON-Prunings.",
+    "en": "Fix: Behebung des 40-Sekunden-Wiedergabestopps bei Free-Accounts durch konsistente Chrome-Identität & Client-Hints auf music.youtube.com (Firefox-Stealth nur für Google-Login) sowie Entfernung des erkennbaren JSON-Prunings."
   },
   "files": {
     "YouTubeMusic-CachyOS-Installer.zip": {
-      "sha256": "fabcd35c15d02b5cc9c6ef78e730e93870d610fce453db11604e8551b468e5e5",
-      "size": 350000,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.4/YouTubeMusic-CachyOS-Installer.zip"
+      "sha256": "461ccd70711bda4a7c5b2256aae6d9c988a1a1370408cc738fc35e7d5ccb470b",
+      "size": 350004,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.5/YouTubeMusic-CachyOS-Installer.zip"
     },
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "98a9f126218633a8b7b15e55a76cc382e50c6af6c3535856c70592c21dfcb386",
-      "size": 348238,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.4/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "379e3212dc0e2b6d1887328cb11f83231b3caa8deb91ec4ee0cb93a760c78de7",
+      "size": 348242,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.5/YouTubeMusic-Linux-Installer.zip"
     },
     "youtube-music.py": {
-      "sha256": "3b85999c5ad8590e1fc8b09ca7b498525a8b1be87481d0d47a4c996dfa7d15ad",
-      "size": 898083,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.4/youtube-music.py"
+      "sha256": "7a9771f652bedcd0add7467264f3364aa1215e65c0b22a63c4775bddf7c9a3dd",
+      "size": 898105,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.15.5/youtube-music.py"
     }
   }
 }
