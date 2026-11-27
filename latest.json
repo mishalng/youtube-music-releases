@@ -1,36 +1,36 @@
 {
-  "version": "1.16.3",
-  "name": "YouTube Music 1.16.3",
+  "version": "1.16.4",
+  "name": "YouTube Music 1.16.4",
   "published_at": "2026-11-27",
   "notes": {
-    "de": "Sauberes WebEngine-Beenden beim Update-Neustart & Pause-Aufrufer-Telemetrie in YTM-DIAG.",
-    "en": "Sauberes WebEngine-Beenden beim Update-Neustart & Pause-Aufrufer-Telemetrie in YTM-DIAG."
+    "de": "Fix für hängendes Cover nach Schließen der Player-Ansicht (CSS-Scoping auf player-page-open & Ghost-Cleanup), Lazy-Init/Teardown der LiveVideoSurface (QQuickWidget), konservative NVIDIA-Wayland-Flags sowie Chromium-Stderr-/GPU-Freeze-Telemetrie.",
+    "en": "Fix für hängendes Cover nach Schließen der Player-Ansicht (CSS-Scoping auf player-page-open & Ghost-Cleanup), Lazy-Init/Teardown der LiveVideoSurface (QQuickWidget), konservative NVIDIA-Wayland-Flags sowie Chromium-Stderr-/GPU-Freeze-Telemetrie."
   },
   "files": {
     "YouTubeMusic-CachyOS-Installer.zip": {
-      "sha256": "d951dec584dabe2488b248e345027421986ff505fc433bdccf5bdacdc2bfb024",
-      "size": 357522,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.16.3/YouTubeMusic-CachyOS-Installer.zip"
+      "sha256": "57b3ae0b4f5274fea15087d3ec0497387886eb8d25d550d8f73a111a90eea899",
+      "size": 359791,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.16.4/YouTubeMusic-CachyOS-Installer.zip"
     },
     "YouTubeMusic-Linux-Installer.zip": {
-      "sha256": "f818b936cf9ec62029efc6b0355f0e03ac3e5bb5da6c2738f851c039835c49e1",
-      "size": 355972,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.16.3/YouTubeMusic-Linux-Installer.zip"
+      "sha256": "e17335b489e55cd67f968a686b8b09ab661c67b558b17ca3badd81455607a3dc",
+      "size": 358241,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.16.4/YouTubeMusic-Linux-Installer.zip"
     },
     "YouTubeMusic-Setup.exe": {
-      "sha256": "f8bded1f666ed101353aa1072ed3a6cbbf2a7497687bc4ffdc25bda617dd4e4f",
-      "size": 145508603,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.16.3/YouTubeMusic-Setup.exe"
+      "sha256": "1ceb2afdfe0bf9804b82a69964e8ee6eaec7be36b28de0c5ba4482988f2a4183",
+      "size": 145534418,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.16.4/YouTubeMusic-Setup.exe"
     },
     "YouTubeMusic-Windows-Portable.zip": {
-      "sha256": "806b2339a71871f2f306a9f948c895b706741b504d9b25616bfea6725830b330",
-      "size": 219322589,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.16.3/YouTubeMusic-Windows-Portable.zip"
+      "sha256": "6e8241f2c5e31f644648b2243d678e61192641213d0a01ead98f1c3ee40d89fd",
+      "size": 219326410,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.16.4/YouTubeMusic-Windows-Portable.zip"
     },
     "youtube-music.py": {
-      "sha256": "47bd573b673abd80f2229d6a0c55daa77581151587d081a94896617c405efe97",
-      "size": 927567,
-      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.16.3/youtube-music.py"
+      "sha256": "2b93f53baf714fb3b22abe79f24807e9f0802077eaeabf1c2bdcd7b4e69e4900",
+      "size": 939567,
+      "url": "https://github.com/mishalng/youtube-music-releases/releases/download/v1.16.4/youtube-music.py"
     }
   }
 }
